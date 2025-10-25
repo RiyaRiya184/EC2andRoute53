@@ -7,6 +7,9 @@ Hosting a website using EC2, Mapped domain name with Public IP , Secured website
 - Choose **Ubuntu**
 - Create and Use key pair
 - Use Putty
-- Allow HTTP (80) 
+- Allow **HTTP (80)**, **HTTPS (443)**, and **SSH (22)**
+- Launch instance
+  ## Launched EC2 Instance
+  ![EC2 Instance]() 
 
   ### Step 2: 
