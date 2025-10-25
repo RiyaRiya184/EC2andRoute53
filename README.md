@@ -10,6 +10,6 @@ Hosting a website using EC2, Mapped domain name with Public IP , Secured website
 - Allow **HTTP (80)**, **HTTPS (443)**, and **SSH (22)**
 - Launch instance
   ## Launched EC2 Instance
-  ![EC2 Instance](CLOUD 1.png) 
+  ![EC2 Instance](https://github.com/RiyaRiya184/EC2andRoute53/blob/e9fd8d2a98563e5169c16194aaab8aca6df9aa03/CLOUD%201.png) 
 
   ### Step 2: 
