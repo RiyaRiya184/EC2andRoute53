@@ -19,6 +19,7 @@ Hosting a website using EC2, Mapped domain name with Public IP , Secured website
 - Choose the key pair file you made while creating the instance.
   '''bash
   login as username: ubuntu
+  '''
 
 
 
