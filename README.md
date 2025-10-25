@@ -14,14 +14,11 @@ Hosting a website using EC2, Mapped domain name with Public IP , Secured website
 
 
   ### 2:Connect to EC2(using PuTTY/SSH)
-  -Download Putty.exe file and install it in your device.
-  -Go to connection
-  -Go to SSH
-  -Go to Auth
-  -Choose key pair file you made while creating instance.
-  '''bash
-  login as username:ubuntu
-  '''
+ - Download `Putty.exe` and install it on your device.
+- Go to **Connection → SSH → Auth**
+- Choose the key pair file you made while creating the instance.
+
+
 
    ### 3. Install Apache
   '''bash
