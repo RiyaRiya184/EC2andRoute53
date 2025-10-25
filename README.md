@@ -14,7 +14,7 @@ Hosting a website using EC2, Mapped domain name with Public IP , Secured website
 
 
   ### 2:Connect to EC2(using PuTTY/SSH)
-  -Download Putty.exe file and install it in your device
+  -Download Putty.exe file and install it in your device.
   -Go to connection
   -Go to SSH
   -Go to Auth
