@@ -40,23 +40,23 @@ sudo vi index.html
 - Write your own code.
 - After writing all code , Press Ctrl+C and then write ":wq" and Press Enter.
 
-### 5. Map Domain with Route 53  
+### 4. Map Domain with Route 53  
 - Register your own domain name.
 - Go to Route 53 on AWS, Click on Hosted Zones.
 ## Route 53 Hosted Zone
-![Route 53 Hosted Zone](cloudimages/route53hostedzone.png)
+![Route 53 Hosted Zone]()
 - You will get four NS name server.
 ## NS Name Servers
-  ![NS Name servers](cloudimages/nsserver.png)
+  ![NS Name servers]()
 - Then update these name server in your domain.
 ## Domain Name adding Name server
-![Nameservereditedondomain](cloudimages/registereddomain.png)
+![Nameservereditedondomain]()
 - Create **A record**
 - Set your domain, Enter your allotted Public IP and then Map it.
 ## Website before SSL certfication (Showing Not Secure)
-![Webiste before SSL certification](cloudimages/websitebeforesslcertification.png)
+![Webiste before SSL certification]()
 
-### 6. Enable SSL (HTTPS) using Certbot  
+### 5. Enable SSL (HTTPS) using Certbot  
 ```bash
 sudo apt update
 sudo apt install certbot python3-certbot-apache -y
