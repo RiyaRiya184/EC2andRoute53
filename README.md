@@ -54,7 +54,7 @@ sudo vi index.html
 - Create **A record**
 - Set your domain, Enter your allotted Public IP and then Map it.
 ## Website before SSL certfication (Showing Not Secure)
-![Webiste before SSL certification]()
+![Webiste before SSL certification](https://github.com/RiyaRiya184/EC2andRoute53/blob/25f37a267d393c916f07bddf3f23e663c95a9f49/uuid%3DD2E2C507-2D2D-478A-8F22-8C86E8102577%26library%3D1%26type%3D1%26mode%3D1%26loc%3Dtrue%26cap%3Dtrue.png)
 
 ### 5. Enable SSL (HTTPS) using Certbot  
 ```bash
